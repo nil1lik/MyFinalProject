@@ -514,3 +514,8 @@
 /Users/nilapril/Documents/GitHub/MyFinalProject/WebAPI/obj/Debug/net7.0/WebAPI.pdb
 /Users/nilapril/Documents/GitHub/MyFinalProject/WebAPI/obj/Debug/net7.0/WebAPI.genruntimeconfig.cache
 /Users/nilapril/Documents/GitHub/MyFinalProject/WebAPI/obj/Debug/net7.0/ref/WebAPI.dll
+/Users/nilapril/Documents/GitHub/MyFinalProject/WebAPI/bin/Debug/net7.0/Autofac.dll
+/Users/nilapril/Documents/GitHub/MyFinalProject/WebAPI/bin/Debug/net7.0/Autofac.Extensions.DependencyInjection.dll
+/Users/nilapril/Documents/GitHub/MyFinalProject/WebAPI/bin/Debug/net7.0/Autofac.Extras.DynamicProxy.dll
+/Users/nilapril/Documents/GitHub/MyFinalProject/WebAPI/bin/Debug/net7.0/Castle.Core.dll
+/Users/nilapril/Documents/GitHub/MyFinalProject/WebAPI/bin/Debug/net7.0/FluentValidation.dll

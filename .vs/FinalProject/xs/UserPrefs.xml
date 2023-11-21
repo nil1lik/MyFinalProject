@@ -1,25 +1,23 @@
-﻿<Properties StartupConfiguration="{B48BB539-A94C-4CB0-82C2-79EFE3350799}|https">
+﻿<Properties StartupConfiguration="{B48BB539-A94C-4CB0-82C2-79EFE3350799}|https" GitUserInfo="UsingGIT">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="DataAccess/Concrete/EntityFramework/NorthwindContext.cs">
     <Files>
       <File FileName="Business/Abstract/IProductService.cs" />
-      <File FileName="Business/Concrete/ProductManager.cs" Line="36" Column="1" />
+      <File FileName="Business/Concrete/ProductManager.cs" />
       <File FileName="ConsoleUI/Program.cs" />
       <File FileName="DataAccess/Concrete/EntityFramework/NorthwindContext.cs" Line="12" Column="96" />
       <File FileName="DataAccess/Concrete/EntityFramework/EfProductDal.cs" />
-      <File FileName="Entities/Concrete/Product.cs" Line="15" Column="17" />
+      <File FileName="Entities/Concrete/Product.cs" />
       <File FileName="DataAccess/Concrete/InMemory/InMemoryProductDal.cs" />
       <File FileName="DataAccess/Concrete/EntityFramework/EfCategoryDal.cs" />
       <File FileName="Entities/Concrete/Category.cs" />
       <File FileName="Entities/Concrete/Customer.cs" />
-      <File FileName="Core/DataAccess/EntityFramework/EfEntityRepositoryBase.cs" Line="44" Column="1" />
-      <File FileName="WebAPI/Controllers/ProductsController.cs" Line="29" Column="1" />
-      <File FileName="WebAPI/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="Core/DataAccess/EntityFramework/EfEntityRepositoryBase.cs" />
+      <File FileName="WebAPI/Controllers/ProductsController.cs" />
+      <File FileName="WebAPI/Controllers/WeatherForecastController.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
